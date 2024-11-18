@@ -30,7 +30,8 @@
 | SpeechRecognition | Library for performing speech recognition, with support for several engines and APIs, online and offline |
 
 
-
+### LocoChat UI Editor's Wrappers
+![image](https://github.com/user-attachments/assets/54b930b2-31ca-4b3c-9cea-e39f5f003660)
 
 | Name | Description |
 | --- | --- |
@@ -145,12 +146,3 @@ $ pip install pyttsx3
 #For running the application
 $streamlit run run.py
 ```
-### A Quick Demo
-
-
-
-
-https://github.com/user-attachments/assets/5c490401-940b-4512-b48a-82745183a1ed
-
-
-
