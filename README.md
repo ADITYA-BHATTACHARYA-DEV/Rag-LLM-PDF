@@ -3,8 +3,6 @@
 > An Advanceed Chat-Bot leveraging Local Level Large Language Model
 
 
-<img src="![Screenshot 2024-07-22 193207](https://github.com/user-attachments/assets/a79bec46-b4d1-4e08-a5c3-9151c11d6ab4)
-" />
 
 
 ## 🚩 Table of Contents
@@ -26,6 +24,10 @@
 | Langchain | Framework Designed to Integrate Large Language Model |
 | Chromadb | For storing embeddings in vector database format  |
 | PyPDF | Python PDF library for operations and transformations |
+
+
+### LocoChat UI Editor's Wrappers
+![image](https://github.com/user-attachments/assets/54b930b2-31ca-4b3c-9cea-e39f5f003660)
 
 | Name | Description |
 | --- | --- |
@@ -140,7 +142,3 @@ $ pip install pyttsx3
 #For running the application
 $streamlit run run.py
 ```
-
-
-
-
