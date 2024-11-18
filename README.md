@@ -30,8 +30,7 @@
 | SpeechRecognition | Library for performing speech recognition, with support for several engines and APIs, online and offline |
 
 
-### LocoChat UI Editor's Wrappers
-![image](https://github.com/user-attachments/assets/54b930b2-31ca-4b3c-9cea-e39f5f003660)
+
 
 | Name | Description |
 | --- | --- |
