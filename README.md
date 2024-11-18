@@ -3,6 +3,8 @@
 > An Advanceed Chat-Bot leveraging Local Level Large Language Model
 
 
+<img src="![Screenshot 2024-07-22 193207](https://github.com/user-attachments/assets/a79bec46-b4d1-4e08-a5c3-9151c11d6ab4)
+" />
 
 
 ## 🚩 Table of Contents
@@ -24,6 +26,8 @@
 | Langchain | Framework Designed to Integrate Large Language Model |
 | Chromadb | For storing embeddings in vector database format  |
 | PyPDF | Python PDF library for operations and transformations |
+| pyttsx3 | Text to Speech Python library that works without internet |
+| SpeechRecognition | Library for performing speech recognition, with support for several engines and APIs, online and offline |
 
 
 ### LocoChat UI Editor's Wrappers
@@ -142,3 +146,12 @@ $ pip install pyttsx3
 #For running the application
 $streamlit run run.py
 ```
+### A Quick Demo
+
+
+
+
+https://github.com/user-attachments/assets/5c490401-940b-4512-b48a-82745183a1ed
+
+
+
