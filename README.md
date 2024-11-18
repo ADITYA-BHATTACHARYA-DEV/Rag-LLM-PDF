@@ -42,7 +42,7 @@
 
 **Introduction** :
 *  Powered by the formidable Llama3 Large Language Model (LLM) with  Ollama transcends mere data retrieval.
-![image](![image](https://github.com/user-attachments/assets/c04cfcc9-7a13-4ef2-9bbb-717cfb17c83a)
+
 )
 
 * It embodies the fusion of cutting-edge technologies, seamlessly blending Retrieval Adversarial Generation (RAG) Pipeline with an unwavering commitment to accuracy and autonomy
